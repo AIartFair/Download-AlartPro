@@ -1,4 +1,4 @@
-# Install-AlartPro
+# Install- Al Art Pro
 
 Instructions to Install:
 
