@@ -1,6 +1,6 @@
 # Download-AlartPro
 
-Instructions to Install apk:)
+Instructions to Install apk:
 
 1) Click on below link:
 https://github.com/AIartFair/Download-AlartPro/raw/main/AI_Art_Pro.apk
