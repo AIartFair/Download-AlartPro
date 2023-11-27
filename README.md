@@ -6,7 +6,7 @@ Instructions to Install apk:
 https://github.com/AIartFair/Download-AlartPro/raw/main/AI_Art_Pro.apk
 
 
-2) Steps to allow AI Art Pro app:
+2) Steps to allow installation of AI Art Pro app:
    1- Go to phone's settings.
    2- Search for : security.
    3- Check option: Unknown Sources.
